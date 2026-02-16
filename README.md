@@ -8,7 +8,8 @@ A lightweight floating video player for [netflix.com](https://www.netflix.com). 
 
 - **Snap small** — video fills the window, Netflix UI hidden, window floats on top
 - **Go big** — full Netflix experience, normal window behavior
-- Press **⌘ Enter** (or double-click the title bar) to toggle between the two
+- **Full Screen** — native macOS fullscreen via ⌘⇧F or Globe+F
+- Press **⌘ Enter** (or double-click anywhere in the window) to toggle between snap and maximize
 - Auto-updates via Sparkle
 
 **Requires macOS 14 (Sonoma) or later.**
@@ -41,9 +42,11 @@ Click **Always Allow** and enter your login keychain password. This is a one-tim
 | Shortcut | Action |
 |----------|--------|
 | ⌘ Enter | Snap / Maximize |
+| ⌘⇧ F | Full Screen |
 | ⌘ T | Toggle always on top |
 | ⌘ R | Reload page |
-| ⌃ ⌘ F | Full Screen |
+
+Globe+F and ⌃⌘F also enter full screen.
 
 When the window is **small** (less than half your screen), it automatically floats on top and shows just the video. When **big**, it behaves like a normal window with the full Netflix UI.
 
