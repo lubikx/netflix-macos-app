@@ -17,12 +17,10 @@
                     <li>Always-on-top, snap to corner, maximize</li>
                 </ul>
             ]]></description>
-            <!-- Update these after building the release DMG:
-            <enclosure url="https://github.com/lubikx/netflix-macos-app/releases/download/v1.0.0/Netflix-1.0.0.dmg"
+            <enclosure url="https://github.com/lubikx/netflix-macos-app/releases/download/v1.0.0/Netflix.dmg"
                        type="application/octet-stream"
-                       sparkle:edSignature="PASTE_EDDSA_SIGNATURE_HERE"
-                       length="FILESIZE_IN_BYTES" />
-            -->
+                       sparkle:edSignature="188b1VUGuMxLm/wZaxhKx0GIpUg/Kb7xd5WDhcuwQUW6GbVptGG84k1KgKTE/Qa0ro6pTCiDTp61Em9M2xHNBw=="
+                       length="2637123" />
         </item>
     </channel>
 </rss>
