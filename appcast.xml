@@ -4,6 +4,24 @@
         <title>Netflix Updates</title>
         <language>en</language>
         <item>
+            <title>Version 1.0.4</title>
+            <pubDate>Sun, 16 Feb 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>1.0.4</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>v1.0.4</h2>
+                <ul>
+                    <li>Fix: Cmd+Enter no longer pauses video</li>
+                    <li>Debug overlay (Cmd+Shift+D)</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/lubikx/netflix-macos-app/releases/download/v1.0.4/Netflix.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="JknWF7B8Vpgjz7RI1VfGVSQsUoiDWb/VKFhUQOvBdPrLAeQPStZzoeVjRtjw+MRg3KIkL8ubngz7ALgrbsBLCA=="
+                       length="1479144" />
+        </item>
+        <item>
             <title>Version 1.0.3</title>
             <pubDate>Sun, 16 Feb 2026 00:00:00 +0000</pubDate>
             <sparkle:version>1.0.3</sparkle:version>
