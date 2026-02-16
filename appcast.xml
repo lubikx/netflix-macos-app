@@ -4,6 +4,24 @@
         <title>Netflix Updates</title>
         <language>en</language>
         <item>
+            <title>Version 1.0.7</title>
+            <pubDate>Sun, 16 Feb 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>1.0.7</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>v1.0.7</h2>
+                <ul>
+                    <li>Info panel includes Keychain prompt guidance</li>
+                    <li>No more startup window flash</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/lubikx/netflix-macos-app/releases/download/v1.0.7/Netflix.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="Bt3Rkr12PMj0xdz5FnLxjiYRxKNM2NXDq4PMLBhaaIVwPWa71E391npe5yL1EZhjXcWE+F1gaQItUGQ9m9WDCQ=="
+                       length="1462596" />
+        </item>
+        <item>
             <title>Version 1.0.6</title>
             <pubDate>Sun, 16 Feb 2026 00:00:00 +0000</pubDate>
             <sparkle:version>1.0.6</sparkle:version>
